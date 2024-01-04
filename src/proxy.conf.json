@@ -1,0 +1,6 @@
+{
+    "/api": {
+    "target": "https://tangerine-raindrop-6c9b8c.netlify.app/",
+    "secure": false
+    }
+    }
